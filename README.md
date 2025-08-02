@@ -28,13 +28,8 @@ Financial fraud costs billions annually. Detecting fraudulent behavior early hel
 
 ---
 
-## 🖥 Screenshots
+<img width="1188" height="611" alt="fd" src="https://github.com/user-attachments/assets/eec75846-936a-44ff-8ab1-8e6b0cc9d008" />
 
-### 🧪 Feature Engineering & Statistics
-![Feature Summary](https://upload.wikimedia.org/wikipedia/commons/5/56/Table_with_graphs.jpg)
-
-### 🔍 Classification Report Output
-![Classification Output](https://upload.wikimedia.org/wikipedia/commons/6/6b/Confusion_matrix_diagram.png)
 
 ---
 
